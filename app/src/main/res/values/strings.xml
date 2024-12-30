@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <resources>
+        <string name="app_name">FlateMate</string>
+    <string-array name="flat_numbers">
+        <item>Tower A - 101</item>
+        <item>Tower A - 102</item>
+        <item>Tower A - 103</item>
+        <item>Tower A - 104</item>
+        <item>Tower A - 201</item>
+        <item>Tower A - 202</item>
+        <item>Tower A - 203</item>
+        <item>Tower A - 204</item>
+    </string-array>
+
+</resources>

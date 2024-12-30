@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653598106786",
+    "project_id": "flatemate1442",
+    "storage_bucket": "flatemate1442.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653598106786:android:b2c9db15d8c372504b63fb",
+        "android_client_info": {
+          "package_name": "com.example.flatemate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA-fIssz7UEzbTrMlwt_L8_WeKrtZ9les"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
