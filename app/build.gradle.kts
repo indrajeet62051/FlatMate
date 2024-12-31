@@ -52,5 +52,11 @@ dependencies {
     implementation (libs.lottie)
     implementation("com.intuit.sdp:sdp-android:1.1.1")
 
+    implementation("com.google.mlkit:text-recognition:16.0.0")
+    implementation("com.google.firebase:firebase-ml-vision:24.0.3")
+    implementation("androidx.camera:camera-camera2:1.1.0-beta01")
+    implementation("androidx.camera:camera-lifecycle:1.1.0-beta01")
+    implementation("androidx.camera:camera-view:1.0.0-alpha09")
+
 
 }

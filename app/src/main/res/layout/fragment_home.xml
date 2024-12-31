@@ -15,6 +15,31 @@
 
 
 
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="40dp"
+
+            android:layout_marginBottom="16dp" />
+
+        <!-- TextView to display the recognized text -->
+        <TextView
+            android:id="@+id/resultTextView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Recognized Text will appear here"
+            android:textSize="18sp"
+            android:layout_marginTop="16dp"
+         />
+
+        <androidx.camera.view.PreviewView
+            android:id="@+id/previewView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentTop="true"/>
+
+
 
 
     </LinearLayout>
