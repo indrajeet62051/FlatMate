@@ -50,8 +50,8 @@ public class home extends AppCompatActivity {
         viewPager.setAdapter(adapter); // Ensure the adapter is set first
 
         // Tab titles and icons
-        final String[] tabTitles = {"Home", "Images", "Maintenance","Folders"};
-        final int[] tabIcons = {R.drawable.baseline_home_24, R.drawable.baseline_image_24, R.drawable.baseline_payment_24, R.drawable.baseline_folder_open_24};
+        final String[] tabTitles = {"Home", "Images", "Maintenance","Profile"};
+        final int[] tabIcons = {R.drawable.baseline_home_24, R.drawable.baseline_image_24, R.drawable.baseline_payment_24, R.drawable.baseline_manage_accounts_24};
 
         // Attach TabLayout with ViewPager2 using TabLayoutMediator
         new TabLayoutMediator(tabLayout, viewPager, new TabLayoutMediator.TabConfigurationStrategy() {
