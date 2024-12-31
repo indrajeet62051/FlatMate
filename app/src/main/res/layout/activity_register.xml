@@ -7,7 +7,7 @@
     android:layout_height="match_parent"
     tools:context=".Register"
     android:orientation="vertical"
-    android:background="@color/black">
+    android:background="#091925">
 
     <ScrollView
         android:layout_width="match_parent"
@@ -132,7 +132,6 @@
                     android:id="@+id/ufno"
                     android:layout_width="match_parent"
                     android:background="@drawable/blue_outline"
-                    android:popupBackground="@color/white"
                     android:paddingStart="@dimen/_35sdp"
                     android:layout_margin="@dimen/_10sdp"
                     android:layout_height="@dimen/_48sdp"
